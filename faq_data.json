@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a software development company offering internships and training programs."
+  },
+  {
+    "question": "What is the duration of the internship?",
+    "answer": "The internship duration is typically 1 month."
+  },
+  {
+    "question": "Will I get a certificate?",
+    "answer": "Yes, you will receive a QR-verified completion certificate."
+  },
+  {
+    "question": "Is this internship paid?",
+    "answer": "No, this is an unpaid internship focused on learning."
+  },
+  {
+    "question": "How do I submit my project?",
+    "answer": "You need to upload your code to GitHub and submit the link via the submission form."
+  }
+]
